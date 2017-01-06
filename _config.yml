@@ -37,3 +37,4 @@ sass:
 # more settings
 safe: true
 lsi: false
+permalink: pretty
