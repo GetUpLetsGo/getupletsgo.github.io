@@ -8,6 +8,10 @@
 
 // add more css stuff here
 
+#logo{
+  height:75px;
+}
+
 /* Space out content a bit */
 body {
   padding-top: 20px;
@@ -54,7 +58,8 @@ body {
 /* Main marketing message and sign up button */
 .jumbotron {
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid #dde5f7;
+  background-color: #dde5f7;
 }
 .jumbotron .btn {
   padding: 14px 24px;
